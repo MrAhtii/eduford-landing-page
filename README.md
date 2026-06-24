@@ -2,7 +2,7 @@
 
 A premium, fully responsive multi-page university website built using standard HTML5 and semantic CSS3. The project features a clean modern aesthetic, floating transparent navigation setups, parallax-style fixed backgrounds, and fluid layouts optimized across desktop and mobile viewing grids.
 
-site link: []
+site link: [https://mrahtii.github.io/eduford-landing-page/]
 
 ## 🚀 Features
 
